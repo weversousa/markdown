@@ -96,9 +96,8 @@ const buttonLogin = docomunt.getElementById("buttonLogin")
 ```
 
 ***
-Para inserir Emojis, utilize **dois pontos** e o **nome do emoji**  
-🖖  
-[Perfil da ikatyang, que possui todos os Emojis](https://github.com/ikatyang/emoji-cheat-sheet)
+Para inserir Emojis, utilize `:nome_emoji:` 🖖  
+[Perfil da ikatyang que possui todos os Emojis](https://github.com/ikatyang/emoji-cheat-sheet)
 
 ***
 
@@ -106,4 +105,4 @@ Para inserir imagens podemos usar uma URL existente, ou também arrastar uma ima
 
 ![spfc](https://user-images.githubusercontent.com/69995549/138879665-4aa8bcb9-bf58-4218-b236-4f530a2a6353.png)  
 
-Não usar imagens grandes (recomendado), passando de 400 de largura já não é "muito" recomendado.
+Não usar imagens grandes (recomendado), passando de 400 de largura já não é "muito recomendado".
